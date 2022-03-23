@@ -35,16 +35,16 @@ function (actualAge){
 
 Inputs and outputs should be valid JavaScript values!
 
-| Input | Output |
-| ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+|  Input  | Output  |
+| -----   |  -----  |
+|  5      | 5,36,39 |
+|  10     | 10,56,64|
+|  15     | 15,76,89|       |
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>Takes an actualAge input and calculates age in human years, cog years, and dog years</td>
   </tr>
 </table>
 
