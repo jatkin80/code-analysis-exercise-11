@@ -37,9 +37,9 @@ Inputs and outputs should be valid JavaScript values!
 
 |  Input  |   Output |
 | -----   |   -----  |
-|  5      |humanYears: 5, catYears: 36, dogYears: 39|
-|  10     |humanYears: 10, catYears: 56, dogYears: 64|
-|  15     |humanYears: 15, catYears: 76, dogYears: 89|
+|  5      |{humanYears: 5, catYears: 36, dogYears: 39}|
+|  10     |{humanYears: 10, catYears: 56, dogYears: 64}|
+|  15     |{humanYears: 15, catYears: 76, dogYears: 89}|
 
 <table>
   <tr>
